@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                                            ⚡<br><br>🌱 I’m currently learning NodeJs , MangoDB<br> 
+                                                                            🌱 I’m currently learning NodeJs , MangoDB
 
 
 # 💻 Tech Stack:
