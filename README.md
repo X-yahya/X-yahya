@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning : MangoDB , NodeJS
 <br>
-📫 How to reach me : yahya.soussi00@gmail.com
+📫 How to reach me : yahyasoussi@proton.me
 
 
 ## 🌐 Socials:
