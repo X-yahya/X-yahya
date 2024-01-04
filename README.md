@@ -1,6 +1,8 @@
+![Profile Image](https://i.pinimg.com/564x/0a/c2/58/0ac2585ffe47155ca684a5a0cf0a5451.jpg)
+<br>
 # 💫 About Me:
 🌱 I’m currently learning : MangoDB , NodeJS
-![Profile Image](https://i.pinimg.com/564x/0a/c2/58/0ac2585ffe47155ca684a5a0cf0a5451.jpg)
+
 
 <br>
 📫 How to reach me : yahyasoussi@proton.me
@@ -21,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=X-yahya&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
