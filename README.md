@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-image: url('https://i.pinimg.com/564x/0a/c2/58/0ac2585ffe47155ca684a5a0cf0a5451.jpg'); background-size: cover; background-position: center; color: white; padding: 20px;">
+<body style="background-image: url('[https://i.pinimg.com/564x/0a/c2/58/0ac2585ffe47155ca684a5a0cf0a5451.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Farchive.org%2Fdetails%2Farchivetn121900016essaraharahasaison01mekdadsehili00000000&psig=AOvVaw0BVRbIU0dcRFUIZ41rW9ol&ust=1704477597276000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD2vp6oxIMDFQAAAAAdAAAAABAu)'); background-size: cover; background-position: center; color: white; padding: 20px;">
 
 # 💫 About Me:
 🌱 I’m currently learning : MangoDB , NodeJS
