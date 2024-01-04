@@ -1,5 +1,3 @@
-![Profile Image](https://i.pinimg.com/564x/0a/c2/58/0ac2585ffe47155ca684a5a0cf0a5451.jpg)
-<br>
 # 💫 About Me:
 🌱 I’m currently learning : MangoDB , NodeJS
 
