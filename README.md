@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body style="background-image: url('https://i.pinimg.com/564x/0a/c2/58/0ac2585ffe47155ca684a5a0cf0a5451.jpg'); background-size: cover; background-position: center; color: white; padding: 20px;">
+
+# 💫 About Me:
+🌱 I’m currently learning : MangoDB , NodeJS
+<br>
+📫 How to reach me : yahyasoussi@proton.me
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@lyt_desu) 
 # 💫 About Me:
 🌱 I’m currently learning : MangoDB , NodeJS
 
